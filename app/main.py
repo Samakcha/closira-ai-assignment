@@ -23,7 +23,7 @@ while True:
 
     user_input = input("\nCustomer: ")
 
-    if user_input.lower() == "exit":
+    if user_input.lower()in ["exit", "thanks", "thank you","byebye"]:
 
         print("\nGenerating conversation summary...\n")
 
