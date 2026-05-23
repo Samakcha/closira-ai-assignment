@@ -1,0 +1,31 @@
+{
+  "business_name": "Bloom Aesthetics Clinic",
+  "hours": "Mon-Sat, 9am-7pm",
+
+  "services": {
+    "Botox": "Starts from £200",
+    "Fillers": "Starts from £250",
+    "Consultations": "Free"
+  },
+
+  "booking": "Bookings can be made via WhatsApp or website.",
+
+  "cancellation_policy": "24hr cancellation required.",
+
+  "consultation_notes": "Consultations are free and recommended before first-time Botox or filler appointments.",
+
+  "payment_methods": [
+    "Credit Card",
+    "Debit Card",
+    "Cash"
+  ],
+
+  "location": "London, United Kingdom",
+
+  "escalation_conditions": [
+    "complaint",
+    "medical question",
+    "pricing negotiation",
+    "more than 2 unanswered questions"
+  ]
+}
